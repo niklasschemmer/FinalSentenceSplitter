@@ -1,0 +1,16 @@
+C:\dev\Projects\Git\SentenceSplitterTest\SentenceSplitterTest\bin\Debug\SentenceSplitterTest.exe.config
+C:\dev\Projects\Git\SentenceSplitterTest\SentenceSplitterTest\bin\Debug\SentenceSplitterTest.exe
+C:\dev\Projects\Git\SentenceSplitterTest\SentenceSplitterTest\bin\Debug\SentenceSplitterTest.pdb
+C:\dev\Projects\Git\SentenceSplitterTest\SentenceSplitterTest\obj\Debug\SentenceSplitterTest.csprojResolveAssemblyReference.cache
+C:\dev\Projects\Git\SentenceSplitterTest\SentenceSplitterTest\obj\Debug\SentenceSplitterTest.exe
+C:\dev\Projects\Git\SentenceSplitterTest\SentenceSplitterTest\obj\Debug\SentenceSplitterTest.pdb
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterTest\bin\Debug\SentenceSplitterTest.exe.config
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterTest\obj\Debug\SentenceSplitterTest.exe
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterTest\obj\Debug\SentenceSplitterTest.pdb
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterTest\obj\Debug\SentenceSplitterTest.csprojResolveAssemblyReference.cache
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterTest\bin\Debug\SentenceSplitterTest.exe
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterTest\bin\Debug\SentenceSplitterTest.pdb
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterTest\bin\Debug\Json.dll
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterTest\bin\Debug\Json.pdb
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterTest\bin\Debug\Newtonsoft.Json.dll
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterTest\bin\Debug\Newtonsoft.Json.xml

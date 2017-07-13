@@ -1,0 +1,11 @@
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterWithForms\bin\Debug\SentenceSplitterWithForms.exe.config
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterWithForms\bin\Debug\SentenceSplitterWithForms.exe
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterWithForms\bin\Debug\SentenceSplitterWithForms.pdb
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterWithForms\bin\Debug\Newtonsoft.Json.dll
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterWithForms\bin\Debug\Newtonsoft.Json.xml
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterWithForms\obj\Debug\SentenceSplitterWithForms.csprojResolveAssemblyReference.cache
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterWithForms\obj\Debug\SentenceSplitterWithForms.Form1.resources
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterWithForms\obj\Debug\SentenceSplitterWithForms.Properties.Resources.resources
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterWithForms\obj\Debug\SentenceSplitterWithForms.csproj.GenerateResource.Cache
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterWithForms\obj\Debug\SentenceSplitterWithForms.exe
+C:\dev\Projects\Tests\SentenceSplitterTest\SentenceSplitterWithForms\obj\Debug\SentenceSplitterWithForms.pdb
